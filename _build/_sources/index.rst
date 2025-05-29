@@ -8,13 +8,22 @@ Welcome to Taskverse's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Usage:
+   :caption: Usage
 
    usage/installation
 
-   :caption: Tutorials:
-   tutorials/new-task
+.. toctree::
+   :maxdepth: 2
+   :caption: Tutorials
 
+   tutorials/new-task
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: Data
+
+   data/tasks.rst
+.. Do we want tasks separated into different pages?
 
 
 Indices and tables
