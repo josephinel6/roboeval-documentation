@@ -17,6 +17,7 @@ Welcome to Taskverse's documentation!
    :caption: Tutorials
 
    tutorials/new-task
+   tutorials/new-prop
    
 .. toctree::
    :maxdepth: 2

@@ -22,3 +22,9 @@ Clone the repo:
 
 Downloading YCB Dataset
 ------------------------
+Download:
+
+.. code-block::
+
+    tools/ycb_downloader.py
+
