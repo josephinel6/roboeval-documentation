@@ -27,3 +27,13 @@ html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
 html_title = "Taskverse Documentation"
+
+html_theme_options = {
+    "show_navbar_depth": 4, 
+    "show_toc_level":2,
+    "collapse_navigation":False,
+}
+
+html_css_files = [
+    'css/headings.css'
+]

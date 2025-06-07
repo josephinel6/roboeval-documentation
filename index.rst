@@ -7,23 +7,23 @@ Welcome to Taskverse's documentation!
 =====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Usage
 
    usage/installation
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Tutorials
 
    tutorials/new-task
    tutorials/new-prop
    
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Data
 
-   data/tasks.rst
+   data/index.rst
 .. Do we want tasks separated into different pages?
 
 
