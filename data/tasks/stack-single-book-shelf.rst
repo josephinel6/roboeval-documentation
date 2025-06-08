@@ -3,7 +3,7 @@ Stack Single Book Shelf
 
 Success
 -----------
-This task involves picking a book up off a table and placing it on one of the shelves of a bookshelf.
+Place one book onto either the upper or lower shelf board so that the book touches the shelf and is released by all grippers.
 
 
 Stages
@@ -28,10 +28,17 @@ Variations
 .. glossary::
 
     Static
+        .. image:: /_static/env_images/stack_single_book_shelf.png
+            :height: 200
+
         The book appears in the same spot with the same orientation every time.
 
     Position Randomization
-        Position of the book will vary by up to 0.1cm in the X-direction and up to 0.25cm in the Y-direction.
-        
+        .. image:: /_static/env_images/stack_single_book_shelf_p.png
+            :height: 200
+        Position of the book will vary by up to 0.1m in the X-direction and up to 0.25m in the Y-direction.
+
     Position and Orientation Randomization
+        .. image:: /_static/env_images/stack_single_book_shelf_p_o.png
+            :height: 200
         Position will vary as specified above, and the orientation of the book will vary by up to 30 degrees in either direction about the Z-axis.
