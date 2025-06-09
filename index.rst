@@ -18,13 +18,13 @@ Welcome to Taskverse's documentation!
 
    tutorials/new-task
    tutorials/new-prop
+   tutorials/new-robot
    
 .. toctree::
    :maxdepth: 1
    :caption: Data
 
    data/index.rst
-.. Do we want tasks separated into different pages?
 
 
 Indices and tables

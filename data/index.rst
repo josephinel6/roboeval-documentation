@@ -3,3 +3,4 @@
     :caption: Data
 
     tasks/index
+    metrics
