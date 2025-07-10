@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Taskverse'
+project = 'RoboEval'
 copyright = '2025, Helen Wang'
 author = 'Helen Wang'
 
@@ -26,7 +26,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 html_theme = 'sphinx_book_theme'
 html_static_path = ['_static']
 
-html_title = "Taskverse Documentation"
+html_title = "RoboEval Documentation"
 
 html_theme_options = {
     "show_navbar_depth": 4, 

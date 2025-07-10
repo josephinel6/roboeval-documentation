@@ -5,7 +5,7 @@ Requirements
 -------------
 System requirements?
 
-Installing Taskverse
+Installing RoboEval
 -----------------------
 Clone the repo:
 

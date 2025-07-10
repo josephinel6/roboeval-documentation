@@ -1,14 +1,14 @@
 Creating a New Prop
 ======================
-1. Load your XML file(s) under ``taskverse/envs/xmls``
-2. Create a file Python file under ``taskverse/envs/props``
+1. Load your XML file(s) under ``roboeval/envs/xmls``
+2. Create a file Python file under ``roboeval/envs/props``
 3. Necessary imports:
 
 .. code-block:: python
     
     from pathlib import Path
-    from taskverse.const import ASSETS_PATH
-    from taskverse.envs.props.prop import Prop, CollidableProp, KinematicProp
+    from roboeval.const import ASSETS_PATH
+    from roboeval.envs.props.prop import Prop, CollidableProp, KinematicProp
 
 
 4. Each prop should be a class with the following form:

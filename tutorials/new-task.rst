@@ -1,7 +1,7 @@
 Creating a New Task
 ====================
 
-1. Create a Python file under ``taskverse/envs`` that will hold your task and all variations of it
+1. Create a Python file under ``roboeval/envs`` that will hold your task and all variations of it
 2. Some basic imports:
 
 .. code-block:: python
@@ -30,7 +30,7 @@ Creating a New Task
    * ``_success(self)``
    * ``_fail(self)``
 
-5. (Optional) You can create a preset file if desired. This should be a YAML file under ``taskverse/envs/presets`` and can include information about the environment or robot setup. An example is:
+5. (Optional) You can create a preset file if desired. This should be a YAML file under ``roboeval/envs/presets`` and can include information about the environment or robot setup. An example is:
 
 .. code-block:: yaml
 
